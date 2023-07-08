@@ -1,0 +1,5 @@
+Question:
+Return the common continuous running letters in the words present in a list.
+Explanation:
+The code stores the first word of the list in a string and then runs a loop according to its length.
+Secodly, we use if all statement to store the common letters present in rest of the words. 

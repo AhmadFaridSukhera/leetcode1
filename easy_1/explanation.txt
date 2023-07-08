@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+question:
+add two numbers of an array to show the desired result and print the indexes
+explanation:
+we use two loops one traverses the whole array and adds consecutive numbers
+the second loop traverses the array by selecting one element and comparing it with the rest
+skips only if the indexes are same for the all the testcases to pass
+=======
+question:
+add two numbers of an array to show the desired result and print the indexes
+explanation:
+we use two loops one traverses the whole array and adds consecutive numbers
+the second loop traverses the array by selecting one element and comparing it with the rest
+skips only if the indexes are same for the all the testcases to pass
+>>>>>>> b9ee1fa3fc5cbe40d8138a84bc741b7d06ac8741
+ 

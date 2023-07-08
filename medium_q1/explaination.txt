@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+Question:
+Given a string containing digits from 2-9 inclusive,
+return all possible letter combinations that the number could represent.
+Return the answer in any order.
+
+Explanation
+the code uses a class where the self and digits are the arguments.
+the keypad stores the mobile keypad using a dictionary with each number corresponding to its alpahbets Ranging from 2 to 9.
+To produce the desired result we use "for loops".
+1st for loop gives us the length of the digits.
+2nd loop takes us the location of the first digit while the 3rd loop helps us iterate it as we keep on appending it to the result.
+finaly we return the result
+=======
+Question:
+Given a string containing digits from 2-9 inclusive,
+return all possible letter combinations that the number could represent.
+Return the answer in any order.
+
+Explanation
+the code uses a class where the self and digits are the arguments.
+the keypad stores the mobile keypad using a dictionary with each number corresponding to its alpahbets Ranging from 2 to 9.
+To produce the desired result we use "for loops".
+1st for loop gives us the length of the digits.
+2nd loop takes us the location of the first digit while the 3rd loop helps us iterate it as we keep on appending it to the result.
+finaly we return the result
+>>>>>>> b9ee1fa3fc5cbe40d8138a84bc741b7d06ac8741

@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+question:
+to reverse a given number and return 0 if the size of the reversed number does not come in range of signed 32 bits.
+explanation:
+Firstly, I stored the sign of the number first then convert it into a string and reverse it using slicing 
+=======
+question:
+to reverse a given number and return 0 if the size of the reversed number does not come in range of signed 32 bits.
+explanation:
+Firstly, I stored the sign of the number first then convert it into a string and reverse it using slicing 
+>>>>>>> b9ee1fa3fc5cbe40d8138a84bc741b7d06ac8741
+Secondly, the reversed string is converted into a integer and returned after checking its size 
